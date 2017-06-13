@@ -3,7 +3,8 @@
 [Lista de Bots](#lista-de-bots-a-reportar) | [¿Cómo reportar desde el teléfono?](#cómo-reportar-bots-en-el-teléfono) | [¿Cómo reportar desde la computadora?](#cómo-reportar-bots-en-la-computadora) 
 :------------: | :-------------: | :-------------:
  |  | 
-------------------------------------------
+
+  
 
 ## Lista de bots a reportar
 Abajo encontrarás un listado de usuarios con enlaces a asus cuentas, 

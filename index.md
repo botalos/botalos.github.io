@@ -97,3 +97,7 @@ Abajo encontrarás un listado de usuarios con enlaces a sus cuentas,
 
 ### 3. En la ventana que aparece presionar "Está publicando spam", presionar "Siguiente" y luego el botón "Listo"
 ![Web 3](web-3.png)
+
+
+-------------------------------
+En base a la información compartida por <a href='https://twitter.com/jbo/status/872772026171351040' target='_blank'>@jbo</a>

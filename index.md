@@ -7,7 +7,7 @@
   
 
 ## Lista de bots a reportar
-Abajo encontrarás un listado de usuarios con enlaces a sus cuentas, 
+Abajo encontrarás un listado de usuarios con enlaces a sus cuentas, la mayoría son cuentas falsas, sin embargo, algunas pueden ser cuentas de personas reales que le dieron acceso al aparato comunicacional del gobierno para que usen estas cuentas como el resto de los bots.
 
 
 

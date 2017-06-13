@@ -7,7 +7,7 @@
   
 
 ## Lista de bots a reportar
-Abajo encontrarás un listado de usuarios con enlaces a asus cuentas, 
+Abajo encontrarás un listado de usuarios con enlaces a sus cuentas, 
 
 
 
